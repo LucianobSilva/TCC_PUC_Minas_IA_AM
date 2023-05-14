@@ -20,8 +20,8 @@ Tema - Predição de Acidente Vascular Cerebral(AVC), com base em fatores de ris
 Baixar ou Clonar (via Git) a pasta do projeto deste link [TCC PUC](https://github.com/LucianobSilva/TCC_PUC_Minas_IA_AM).
 
 
-## Executando Projeto
+## Executando Projeto 
 Basta executar o arquivo TCC_PUC_Minas_IA&AM.ipynb
 
-
+> Obs: Textos e mais detalhes exploratórios estão contidos na pasta Documentos, arquivo "TCC - Inteligência Artificial e Aprendizado de Maquina.doc".
 
