@@ -9,7 +9,7 @@ Tema - Predição de Acidente Vascular Cerebral(AVC), com base em fatores de ris
 │   ├── Documentos
 │   ├── img
 │   ├── Template(PUC)
-├── TCC - PUC Minas.ipynb
+├── TCC_PUC_Minas_IA&AM.ipynb
 ```
 
 ## Requisitos
