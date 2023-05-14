@@ -1,25 +1,27 @@
-# TCC PUC - Pós Graduação - Inteligência Artificial e Aprendizado de Máquina :bar_chart: :books:
-PUC Minas - TCC Inteligência Artificial e Aprendizado de Máquina
+# TCC PUC / Pós Graduação
+# Curso: Inteligência Artificial e Aprendizado de Máquina :chart_with_upwards_trend: :books:
+Tema - Predição de Acidente Vascular Cerebral(AVC), com base em fatores de risco. 
 
 ## Estrutura do Projeto
 ```
-├── Raíz
+├───── Diretório
 │   ├── data
-│   ├── Modelo - TCC
-├── script.py
+│   ├── Documentos
+│   ├── img
+│   ├── Template(PUC)
 ├── TCC - PUC Minas.ipynb
 ```
 
 ## Requisitos
 - [Python](https://www.python.org/)
-- [Jupyter](https://jupyter.org/) ou uma ferramenta equivalente para execução do arquivo "TCC_PUC_Minas_IA&AM.ipynb"
+- [Jupyter](https://jupyter.org/), [VS Code](https://code.visualstudio.com/docs/) ou uma ferramenta equivalente para execução do arquivo "TCC_PUC_Minas_IA&AM.ipynb"
 
 ## Iniciando
-Baixar ou clonar (via git) a pasta do projeto deste link [TCC PUC](https://github.com/karenyov/TCC_PUC_BigData).
+Baixar ou Clonar (via Git) a pasta do projeto deste link [TCC PUC](https://github.com/LucianobSilva/TCC_PUC_Minas_IA_AM).
 
 
 ## Executando Projeto
 Basta executar o arquivo TCC_PUC_Minas_IA&AM.ipynb
 
-Excutar o arquivo "script.py" que encontra-se na raíz do projeto
-> Este arquivo é responsável por gerar os datasets necessários. Os arquivos serão salvos na pasta data/.
+
+
